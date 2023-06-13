@@ -1,5 +1,6 @@
 .spyproject/
 filler.mp4
+bannedwords.txt
 Videos/*
 Content/*
 *.png
