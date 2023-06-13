@@ -1,0 +1,9 @@
+.spyproject/
+filler.mp4
+Videos/*
+Content/*
+*.png
+*.mp3
+*.mp4
+*.wav
+__pycache__/
